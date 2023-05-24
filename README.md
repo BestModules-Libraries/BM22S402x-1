@@ -13,10 +13,7 @@ The BM22S402x-1(x=1,2,3,4) are Doubletron's four PIR digital sensors that use UA
 
 |Part No.   |Description                   |
 |:---------:|:----------------------------:|
-|BM22S4021-1
-BM22S4022-1
-BM22S4023-1
-BM22S4024-1|PIR Digital sensors|
+|BM22S4021-1  <br> BM22S4022-1  <br> BM22S4023-1  <br> BM22S4024-1|PIR Digital sensors|
 |BMH63K203  |PIR detection module|
 
 </div> 
