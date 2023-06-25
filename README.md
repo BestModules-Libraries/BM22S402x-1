@@ -6,15 +6,15 @@
 BM22S402x-1
 ===========================================================
 
-The BM22S402x-1(x=1,2,3,4) are Doubletron's four PIR digital sensors that use UART communication. This document describes the Arduino Lib function and Arduino Lib installation method of BM22S402x-1.The BMA26M221 is used as an example to demonstrate the ability to configure module parameters and PIR motion detection.
+The BM22S402x-1 (x=1, 2, 3, 4) are four PIR digital sensors from Best Modules, which use the UART communication method. This document provides the description of the BM22S402x-1 Arduino Lib functions and how to install the Arduino Lib. The example uses the BMA26M221 to demonstrate the functions of module parameter configuration and PIR motion detection.
 
 ## Applicable types:
 <div align=center>
 
 |Part No.   |Description                   |
 |:---------:|:----------------------------:|
-|BM22S4021-1  <br> BM22S4022-1  <br> BM22S4023-1  <br> BM22S4024-1|PIR Digital sensors|
-|BMH63K203  |PIR detection module|
+|BM22S4021-1  <br> BM22S4022-1  <br> BM22S4023-1  <br> BM22S4024-1|PIR Digital Sensor|
+|BMA26M221  |On-board BM22S4021-1 Sensor|
 
 </div> 
 
